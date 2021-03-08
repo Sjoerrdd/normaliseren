@@ -53,7 +53,7 @@
           <h1 class="font-serif text-3xl text-gray-900">0<sup>e</sup> normaalvorm</h1>
 
           <div class="mb-4">
-            <h3 class="font-serif text-lg">Stap 1: </h3>
+            <h2 class="font-serif text-lg">Stap 1: </h2>
             <div class="mb-2">
               <p class="font-semibold">Neem alle constante gegevens.</p>
               <p class="text-gray-800">Labels: "Factuur", "Factuurdatum", "Factuurnummer", "Aantal", "Prijs", "Omschrijving", "Subtotaal", "BTW (21%)", "Totaal"</p>
@@ -71,7 +71,7 @@
               <p class="text-gray-800">Artikelnummer, Aantal, Omschrijving, Prijs</p>
             </div>
 
-            <h3 class="font-serif text-lg">Stap 2: </h3>
+            <h2 class="font-serif text-lg">Stap 2: </h2>
             <div class="mb-2">
               <p class="font-semibold">Verwijder alle constante- en procesgegevens</p>
               <p class="text-gray-800">Zet de vaste gegevens voorop, gevolgd door de repeterende groep en bepaal de <abbr title="De sleutel is een uniek gegeven, zoals een factuurnummer, klantnummer, BSN-nummer of studentnummer." class="cursor-pointer">sleutel</abbr></p>
